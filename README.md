@@ -26,7 +26,7 @@ Dalam pengerjaan proyek ini, kami menggunakan kombinasi teknologi berikut:
 ---
 
 ## Pengembang (Kelompok Ulala)
-Proyek ini dikembangkan oleh:
+Proyek ini dibuat dan dikembangkan oleh:
 1.  **Anisa Fitriyani - 0110224145**
 2.  **Azkia Amanda - 0110224099**
 3.  **Muhammad Rizky Nur Awalin - 0110224070**
