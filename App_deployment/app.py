@@ -152,7 +152,7 @@ demo = gr.Interface(
     inputs=gr.Textbox(lines=3, label="Input Review TikTok", placeholder="Ketik review di sini..."),
     outputs=gr.Label(label="Hasil Analisis"),
     title="🚀 Analisis Review Aplikasi (Play Store) - TikTok Sentiment Analysis - Kelompok Ulala",
-    description="Analisis sentimen ulasan pengguna TikTok menggunakan SVM + TF-IDF N-gram (Akurasi: 74.63%)",
+    description="Analisis sentimen ulasan pengguna TikTok menggunakan SVM + TF-IDF N-gram (Akurasi: 74.60%)",
     examples=[
         ["Aplikasi bagus sekali, sangat menghibur!"],
         ["Jelek banget, aplikasinya tidak berguna dan lambat."],
